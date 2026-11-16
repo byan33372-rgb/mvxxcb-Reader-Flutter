@@ -1,6 +1,6 @@
 # 简阅 · Flutter（mvxxcb-Reader）
 
-> **分支说明**：本分支（`flutter`）为**纯 Flutter 工程**——仓库根目录即 Flutter 项目，不含 Kotlin 版源码；Kotlin 版见 `kotlin` 分支，两栈合集的完整仓库见 `main`
+> **仓库说明**：本仓库为简阅的 **Flutter 实现**（Android + Windows 桌面），仓库根目录即 Flutter 项目。Kotlin 原生 Android 版见独立仓库 `mvxxcb-Reader-Android`。
 
 一款 Android + Windows 桌面小说阅读器（Flutter 实现）：粘贴小说网址，自动识别整本小说、抓取目录与正文，生成可离线阅读的本地书籍。
 
